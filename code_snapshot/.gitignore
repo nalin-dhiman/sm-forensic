@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs / caches
+outputs/
+cache_*.npy
+*.npz
+*.npy
+
+# OS
+.DS_Store
+
+# Secrets (never commit)
+*token*
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.bcf
+*.run.xml
+*.bbl
+*.blg
