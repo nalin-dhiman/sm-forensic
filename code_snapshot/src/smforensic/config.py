@@ -1,11 +1,6 @@
 """Configuration defaults.
 
 This repo intentionally keeps configuration explicit and editable.
-
-Important:
-- Do NOT commit FlyWire tokens. Use the environment variable `FLYWIRE_API_TOKEN`.
-- The defaults below mirror the parameter table in the accompanying manuscript.
-  They are not claimed to be a biophysically fitted model of any specific Sm cell type.
 """
 
 from __future__ import annotations
