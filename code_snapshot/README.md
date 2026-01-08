@@ -2,7 +2,6 @@
 
 A small, auditable toolbox for **testing** (and often *falsifying*) connectome-to-dynamics hypotheses under explicit, stress‑tested assumptions.
 
-This repo accompanies the manuscript in `paper/` and focuses on a simple idea:
 
 > Dense wiring does not automatically imply a specific dynamical “function”.  
 > If you want to claim bistability / oscillators / memory, you should be able to **fail to kill** that claim under adversarial checks.
@@ -16,9 +15,9 @@ What this is *not*:
 
 - `src/smforensic/` — lightweight simulator + assays + validation gates
 - `scripts/` — runnable entry points (toy demo + optional FlyWire fetch scaffolding)
-- `paper/` — LaTeX source + figures used in the draft
-- `data/` — small runnable example data (no FlyWire data is shipped)
-- `outputs/` — where scripts write cached results (ignored by git)
+- `paper/` —figures used in the draft
+- `data/` — data files
+- `outputs/` — where scripts write cached results
 
 ## Quickstart (toy demo)
 
@@ -58,4 +57,4 @@ If you do *not* like a modeling assumption, the intent is that you can change it
 
 ## License
 
-A permissive license is included for convenience, but you should confirm it matches your intended release before uploading to GitHub.
+MIT
