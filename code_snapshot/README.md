@@ -53,7 +53,6 @@ The code tries to be “forensic” in a boring way:
 - explicit reporting of effect sizes,
 - stress tests around uncertain assumptions (e.g., synapse sign mapping).
 
-If you do *not* like a modeling assumption, the intent is that you can change it in one place and re-run.
 
 ## License
 
