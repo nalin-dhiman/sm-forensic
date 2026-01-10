@@ -123,3 +123,6 @@ Its primary contribution is methodological clarity rather than functional discov
 
 Readers are encouraged to treat the results as **conditional on the stated assumptions** and to view the pipeline as a starting point for further, experimentally grounded investigation.
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
