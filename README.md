@@ -102,8 +102,12 @@ It may be particularly useful for researchers who want a **template for cautious
 ---
 
 ## Citation
+f you use this work, please cite:
 
-
+Dhiman, N. & Panwar, S. (2026). Dynamical Interrogation of Serpentine Medulla Circuits in the Drosophila Optic Lobe.
+DOI: 10.64898/2026.01.08.698345
+https://doi.org/10.64898/2026.01.08.698345
+[![DOI]( https://img.shields.io/badge/DOI-10.64898%252F2026.01.08.698345-blue)](https://doi.org/10.64898/2026.01.08.698345) 
 
 ---
 
