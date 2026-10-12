@@ -111,15 +111,6 @@ https://doi.org/10.64898/2026.01.08.698345
 
 ---
 
-## Contact
-
-For questions about the manuscript or code:
-
-**Correspondence:**  
-`d24008@students.iitmandi.ac.in`
-
----
-
 ## Final note
 
 This submission is intentionally restrained in its claims.  
